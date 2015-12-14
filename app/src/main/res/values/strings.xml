@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">eDMS v2.0</string>
+    <string name="hint_username">Tên tài khoản</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="sign_in_title">Màn hình đăng nhập</string>
+    <string name="change_pass_title">Màn hình đổi mật khẩu</string>
+    <string name="err_msg_name">Nhập tên đăng nhập</string>
+    <string name="err_msg_password">Nhập mật khẩu</string>
+    <string name="hint_password_old">Nhập mật khẩu cũ</string>
+    <string name="hint_password_new">Nhập mật khẩu mới</string>
+    <string name="hint_password_new_again">Nhập lại mật khẩu mới</string>
+    <string name="change_pass">Đổi mật khẩu</string>
+    <string name="err_msg_password_old">Nhập mật khẩu cũ</string>
+    <string name="err_msg_password_new">Nhập mật khẩu mới</string>
+    <string name="err_msg_password_new_again">Nhập lại mật khẩu mới</string>
+    <string name="listorder_title">Danh sách đơn hàng</string>
+</resources>
